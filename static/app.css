@@ -1,0 +1,35 @@
+body {
+	background: url('https://unsplash.com/photos/pGM4sjt_BdQ');
+	background-size: cover;
+	font-family: Arial, sans-serif;
+	font-weight: 400;
+	margin-left: 30px;
+	margin-top: 30px;
+	color: rgb(168, 109, 109);
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: 300;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#li-div {
+	margin: 5px;
+}
+
+.cupcake-img {
+	width: 150px;
+	height: 150px;
+	border-radius: 10px;
+	margin-right: 10px;
+}
+
+h1 {
+	text-align: center;
+}
